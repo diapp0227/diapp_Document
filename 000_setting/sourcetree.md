@@ -1,8 +1,3 @@
----
-title: "sourceTree"
-tags: ""
----
-
 # SourceTree
 git管理を行いたいので、わかりやすいGUIでgit操作ができるツールを利用する
 
@@ -27,4 +22,4 @@ https://www.sourcetreeapp.com/
 4. 「名前」の入力欄を入力
 5. 「クローン」を押下
 
-![スクリーンショット 2024-02-27 200027.png](https://boostnote.io/api/teams/lpGZZRJcM/files/ac652ac6b7600685e8e526949ce1000c7bc7a213859b582323fc165a6de9a180-%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-02-27%20200027.png)
+![スクリーンショット 2024-02-27 200027](https://github.com/diapp0227/diapp_Document/assets/161457009/203eacfc-5363-461b-b2b3-cc77a1a0f05b)
