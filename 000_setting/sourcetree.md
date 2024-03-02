@@ -42,6 +42,8 @@ https://qiita.com/setonao/items/28749762c0bc1fbbf502
 
 4. 【sourcetree】アカウント設定で 2のトークンをパスワードとして設定する
 
+<img width="533" alt="image" src="https://github.com/diapp0227/diapp_Document/assets/161457009/e0732476-55c1-437b-b7c7-fabb919c9f50">
+
 #### その他参考サイト
 
 * SSHキー・リモートURLの設定
@@ -54,6 +56,5 @@ https://blog.foresta.me/posts/update-known-hosts-fot-github/
 
 * pushできなかったので、リモートURLの設定を見直し
 
-<img width="533" alt="image" src="https://github.com/diapp0227/diapp_Document/assets/161457009/e0732476-55c1-437b-b7c7-fabb919c9f50">
 
 
