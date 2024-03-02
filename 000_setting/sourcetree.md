@@ -23,3 +23,10 @@ https://www.sourcetreeapp.com/
 5. 「クローン」を押下
 
 ![スクリーンショット 2024-02-27 200027](https://github.com/diapp0227/diapp_Document/assets/161457009/203eacfc-5363-461b-b2b3-cc77a1a0f05b)
+
+### Githubのssh設定
+・SSHキー・リモートURLの設定
+https://tks2.co.jp/2021/01/18/github-ssh/
+
+・自分の場合は、Hostキーの置き換えを行う必要があった
+https://blog.foresta.me/posts/update-known-hosts-fot-github/
