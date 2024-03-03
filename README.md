@@ -20,6 +20,4 @@ iOS | - | https://github.com/diapp0227/diapp_iOS
 
 ## 開発環境設定
 * [SourceTree](https://github.com/diapp0227/diapp_Document/blob/master/000_setting/sourcetree.md)
-
-## 備忘録
-* aaa
+* [開発環境](https://github.com/diapp0227/diapp_Document/blob/master/000_setting/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83.md)
